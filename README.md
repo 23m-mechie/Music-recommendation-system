@@ -1,4 +1,4 @@
-# PRML-CS5691-2021
+# MUSIC RECOMMENDATION SYSTEM
 <h2>Assignment1</h2>
 <a href="Assignment1">Assignment 1</a>
 <h3>Results</h3>
